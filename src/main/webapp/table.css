@@ -1,0 +1,57 @@
+.filterable {
+    margin-top: 15px;
+
+}
+.container {
+    width: 80%;
+    margin: auto;
+}
+.panel-title {
+    text-align: ce
+}
+body {
+  background-color: #efefef;
+  padding: 10px;
+  font-family: 'Varela Round';
+}
+.filterable .panel-heading .pull-right {
+    margin-top: -20px;
+}
+.grey{
+    background-color: #aaaaaa;
+    color: #fff;
+    height:40px;
+}
+.panel-title{
+    padding-top: 10px;
+    margin : 30px;
+}
+.filterable .filters input[disabled] {
+    background-color: transparent;
+    border: none;
+    cursor: auto;
+    box-shadow: none;
+    padding: 0;
+    height: auto;
+}
+.filterable .filters input[disabled]::-webkit-input-placeholder {
+    color: #333;
+}
+.filterable .filters input[disabled]::-moz-placeholder {
+    color: #333;
+}
+.filterable .filters input[disabled]:-ms-input-placeholder {
+    color: #333;
+}
+
+.btn {
+     background: #ffffff;
+  color: #999999;
+  border-radius: 8px;
+  padding: 10px 20px;
+   border: 0;
+  box-shadow: 0 0 0;
+ width: 300px;
+  border-radius: 5px;
+  display: inline-block;
+}
